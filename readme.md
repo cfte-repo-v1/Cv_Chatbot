@@ -8,6 +8,8 @@ The primary goal was to create an interactive and engaging way for visitors to m
 
 [Interact with my CV Chatbot](https://www.chatbase.co/chatbot-iframe/BuWQI027xrOBUjviPiluA)
 
+This project was undertaken as part of an assignment for the Supercharged Academy online course offered by CFTE (Centre for Finance, Technology and Entrepreneurship). It serves as a practical demonstration of the concepts learned within the course regarding the application of AI technologies.
+
 ## Purpose
 
 * To provide an alternative, interactive method for exploring my professional qualifications.
