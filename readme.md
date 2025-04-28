@@ -6,6 +6,8 @@ This project showcases the development and integration of an AI-powered chatbot 
 
 The primary goal was to create an interactive and engaging way for visitors to my portfolio website to quickly find information about my skills, experience, and education, demonstrating practical application of AI tools in a real-world context.
 
+[Interact with my CV Chatbot](https://www.yourportfolio.com/chatbot-page)
+
 ## Purpose
 
 * To provide an alternative, interactive method for exploring my professional qualifications.
