@@ -29,7 +29,6 @@ The primary goal was to create an interactive and engaging way for visitors to m
 ## Technologies Used
 
 * **Chatbase:** AI chatbot platform for training and deployment.
-* **[Your Portfolio Website Technology - e.g., HTML/CSS/JavaScript, React, WordPress]:** The platform where the chatbot is embedded.
 * **My CV Document (e.g., PDF, DOCX):** The knowledge source for the chatbot.
 
 ## Implementation Steps
